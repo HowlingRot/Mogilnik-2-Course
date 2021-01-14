@@ -1,0 +1,11 @@
+A:\Works\Laboratory\Programming Technology(C#)\Lab_3_ProgrammingTechnology\Console_Application_1\Console_Application_1\bin\Debug\netcoreapp3.1\Console_Application_1.exe
+A:\Works\Laboratory\Programming Technology(C#)\Lab_3_ProgrammingTechnology\Console_Application_1\Console_Application_1\bin\Debug\netcoreapp3.1\Console_Application_1.deps.json
+A:\Works\Laboratory\Programming Technology(C#)\Lab_3_ProgrammingTechnology\Console_Application_1\Console_Application_1\bin\Debug\netcoreapp3.1\Console_Application_1.runtimeconfig.json
+A:\Works\Laboratory\Programming Technology(C#)\Lab_3_ProgrammingTechnology\Console_Application_1\Console_Application_1\bin\Debug\netcoreapp3.1\Console_Application_1.runtimeconfig.dev.json
+A:\Works\Laboratory\Programming Technology(C#)\Lab_3_ProgrammingTechnology\Console_Application_1\Console_Application_1\bin\Debug\netcoreapp3.1\Console_Application_1.dll
+A:\Works\Laboratory\Programming Technology(C#)\Lab_3_ProgrammingTechnology\Console_Application_1\Console_Application_1\bin\Debug\netcoreapp3.1\Console_Application_1.pdb
+A:\Works\Laboratory\Programming Technology(C#)\Lab_3_ProgrammingTechnology\Console_Application_1\Console_Application_1\obj\Debug\netcoreapp3.1\Console_Application_1.csprojAssemblyReference.cache
+A:\Works\Laboratory\Programming Technology(C#)\Lab_3_ProgrammingTechnology\Console_Application_1\Console_Application_1\obj\Debug\netcoreapp3.1\Console_Application_1.AssemblyInfoInputs.cache
+A:\Works\Laboratory\Programming Technology(C#)\Lab_3_ProgrammingTechnology\Console_Application_1\Console_Application_1\obj\Debug\netcoreapp3.1\Console_Application_1.AssemblyInfo.cs
+A:\Works\Laboratory\Programming Technology(C#)\Lab_3_ProgrammingTechnology\Console_Application_1\Console_Application_1\obj\Debug\netcoreapp3.1\Console_Application_1.dll
+A:\Works\Laboratory\Programming Technology(C#)\Lab_3_ProgrammingTechnology\Console_Application_1\Console_Application_1\obj\Debug\netcoreapp3.1\Console_Application_1.pdb
