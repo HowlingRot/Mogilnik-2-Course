@@ -1,0 +1,9 @@
+A:\Works\Laboratory\Programming Technology(C#)\Lab_2_ProgrammingTechnology\Windows_Forms_Application_3\Windows_Forms_Application_3\bin\Debug\Windows_Forms_Application_3.exe.config
+A:\Works\Laboratory\Programming Technology(C#)\Lab_2_ProgrammingTechnology\Windows_Forms_Application_3\Windows_Forms_Application_3\bin\Debug\Windows_Forms_Application_3.exe
+A:\Works\Laboratory\Programming Technology(C#)\Lab_2_ProgrammingTechnology\Windows_Forms_Application_3\Windows_Forms_Application_3\bin\Debug\Windows_Forms_Application_3.pdb
+A:\Works\Laboratory\Programming Technology(C#)\Lab_2_ProgrammingTechnology\Windows_Forms_Application_3\Windows_Forms_Application_3\obj\Debug\Windows_Forms_Application_3.csprojAssemblyReference.cache
+A:\Works\Laboratory\Programming Technology(C#)\Lab_2_ProgrammingTechnology\Windows_Forms_Application_3\Windows_Forms_Application_3\obj\Debug\Windows_Forms_Application_3.Form1.resources
+A:\Works\Laboratory\Programming Technology(C#)\Lab_2_ProgrammingTechnology\Windows_Forms_Application_3\Windows_Forms_Application_3\obj\Debug\Windows_Forms_Application_3.Properties.Resources.resources
+A:\Works\Laboratory\Programming Technology(C#)\Lab_2_ProgrammingTechnology\Windows_Forms_Application_3\Windows_Forms_Application_3\obj\Debug\Windows_Forms_Application_3.csproj.GenerateResource.cache
+A:\Works\Laboratory\Programming Technology(C#)\Lab_2_ProgrammingTechnology\Windows_Forms_Application_3\Windows_Forms_Application_3\obj\Debug\Windows_Forms_Application_3.exe
+A:\Works\Laboratory\Programming Technology(C#)\Lab_2_ProgrammingTechnology\Windows_Forms_Application_3\Windows_Forms_Application_3\obj\Debug\Windows_Forms_Application_3.pdb
