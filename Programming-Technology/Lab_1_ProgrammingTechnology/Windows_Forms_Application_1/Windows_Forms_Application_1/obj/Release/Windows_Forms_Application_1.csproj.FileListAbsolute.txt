@@ -1,0 +1,9 @@
+A:\Works\Laboratory\Programming Technology(C#)\Lab_1_ProgrammingTechnology\Windows_Forms_Application_1\Windows_Forms_Application_1\bin\Release\Windows_Forms_Application_1.exe.config
+A:\Works\Laboratory\Programming Technology(C#)\Lab_1_ProgrammingTechnology\Windows_Forms_Application_1\Windows_Forms_Application_1\bin\Release\Windows_Forms_Application_1.exe
+A:\Works\Laboratory\Programming Technology(C#)\Lab_1_ProgrammingTechnology\Windows_Forms_Application_1\Windows_Forms_Application_1\bin\Release\Windows_Forms_Application_1.pdb
+A:\Works\Laboratory\Programming Technology(C#)\Lab_1_ProgrammingTechnology\Windows_Forms_Application_1\Windows_Forms_Application_1\obj\Release\Windows_Forms_Application_1.csprojAssemblyReference.cache
+A:\Works\Laboratory\Programming Technology(C#)\Lab_1_ProgrammingTechnology\Windows_Forms_Application_1\Windows_Forms_Application_1\obj\Release\Windows_Forms_Application_1.Form1.resources
+A:\Works\Laboratory\Programming Technology(C#)\Lab_1_ProgrammingTechnology\Windows_Forms_Application_1\Windows_Forms_Application_1\obj\Release\Windows_Forms_Application_1.Properties.Resources.resources
+A:\Works\Laboratory\Programming Technology(C#)\Lab_1_ProgrammingTechnology\Windows_Forms_Application_1\Windows_Forms_Application_1\obj\Release\Windows_Forms_Application_1.csproj.GenerateResource.cache
+A:\Works\Laboratory\Programming Technology(C#)\Lab_1_ProgrammingTechnology\Windows_Forms_Application_1\Windows_Forms_Application_1\obj\Release\Windows_Forms_Application_1.exe
+A:\Works\Laboratory\Programming Technology(C#)\Lab_1_ProgrammingTechnology\Windows_Forms_Application_1\Windows_Forms_Application_1\obj\Release\Windows_Forms_Application_1.pdb

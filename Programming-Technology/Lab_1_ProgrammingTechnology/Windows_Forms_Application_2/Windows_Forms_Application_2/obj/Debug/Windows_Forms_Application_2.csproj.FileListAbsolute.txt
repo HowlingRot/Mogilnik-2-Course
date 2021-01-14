@@ -1,0 +1,4 @@
+A:\Works\Laboratory\Programming Technology(C#)\Lab_1_ProgrammingTechnology\Windows_Forms_Application_2\Windows_Forms_Application_2\obj\Debug\Windows_Forms_Application_2.csprojAssemblyReference.cache
+A:\Works\Laboratory\Programming Technology(C#)\Lab_1_ProgrammingTechnology\Windows_Forms_Application_2\Windows_Forms_Application_2\obj\Debug\Windows_Forms_Application_2.Form1.resources
+A:\Works\Laboratory\Programming Technology(C#)\Lab_1_ProgrammingTechnology\Windows_Forms_Application_2\Windows_Forms_Application_2\obj\Debug\Windows_Forms_Application_2.Properties.Resources.resources
+A:\Works\Laboratory\Programming Technology(C#)\Lab_1_ProgrammingTechnology\Windows_Forms_Application_2\Windows_Forms_Application_2\obj\Debug\Windows_Forms_Application_2.csproj.GenerateResource.cache
