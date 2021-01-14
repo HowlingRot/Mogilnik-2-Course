@@ -1,0 +1,11 @@
+A:\Works\Laboratory\Algorithms_and_data _structures\Lab_6_Algorithms_and_data _structures\Lab_6_1_ADS\Lab_6_1_ADS\bin\Debug\netcoreapp3.1\Lab_6_1_ADS.exe
+A:\Works\Laboratory\Algorithms_and_data _structures\Lab_6_Algorithms_and_data _structures\Lab_6_1_ADS\Lab_6_1_ADS\bin\Debug\netcoreapp3.1\Lab_6_1_ADS.deps.json
+A:\Works\Laboratory\Algorithms_and_data _structures\Lab_6_Algorithms_and_data _structures\Lab_6_1_ADS\Lab_6_1_ADS\bin\Debug\netcoreapp3.1\Lab_6_1_ADS.runtimeconfig.json
+A:\Works\Laboratory\Algorithms_and_data _structures\Lab_6_Algorithms_and_data _structures\Lab_6_1_ADS\Lab_6_1_ADS\bin\Debug\netcoreapp3.1\Lab_6_1_ADS.runtimeconfig.dev.json
+A:\Works\Laboratory\Algorithms_and_data _structures\Lab_6_Algorithms_and_data _structures\Lab_6_1_ADS\Lab_6_1_ADS\bin\Debug\netcoreapp3.1\Lab_6_1_ADS.dll
+A:\Works\Laboratory\Algorithms_and_data _structures\Lab_6_Algorithms_and_data _structures\Lab_6_1_ADS\Lab_6_1_ADS\bin\Debug\netcoreapp3.1\Lab_6_1_ADS.pdb
+A:\Works\Laboratory\Algorithms_and_data _structures\Lab_6_Algorithms_and_data _structures\Lab_6_1_ADS\Lab_6_1_ADS\obj\Debug\netcoreapp3.1\Lab_6_1_ADS.csprojAssemblyReference.cache
+A:\Works\Laboratory\Algorithms_and_data _structures\Lab_6_Algorithms_and_data _structures\Lab_6_1_ADS\Lab_6_1_ADS\obj\Debug\netcoreapp3.1\Lab_6_1_ADS.AssemblyInfoInputs.cache
+A:\Works\Laboratory\Algorithms_and_data _structures\Lab_6_Algorithms_and_data _structures\Lab_6_1_ADS\Lab_6_1_ADS\obj\Debug\netcoreapp3.1\Lab_6_1_ADS.AssemblyInfo.cs
+A:\Works\Laboratory\Algorithms_and_data _structures\Lab_6_Algorithms_and_data _structures\Lab_6_1_ADS\Lab_6_1_ADS\obj\Debug\netcoreapp3.1\Lab_6_1_ADS.dll
+A:\Works\Laboratory\Algorithms_and_data _structures\Lab_6_Algorithms_and_data _structures\Lab_6_1_ADS\Lab_6_1_ADS\obj\Debug\netcoreapp3.1\Lab_6_1_ADS.pdb
